@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Sessions / Auth tokens / Cached files
+session/
+sessions/
+*.session
+*.json.session
+*.db
+
+# Environment
+.env
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Build output
+dist/
+build/
+tmp/
+
+# OS & Editor files
+.DS_Store
+.vscode/
+Thumbs.db

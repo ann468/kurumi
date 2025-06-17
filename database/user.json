@@ -1,0 +1,47 @@
+[
+  {
+    "id": "6283192910713@s.whatsapp.net",
+    "name": "XIAO ANN",
+    "level": 2,
+    "exp": 2,
+    "hp": 49,
+    "maxHp": 120,
+    "mp": 50,
+    "atk": 10,
+    "def": 5,
+    "gold": 267,
+    "job": "Novice",
+    "inventory": [
+      "Dragon Scale",
+      "Ender Pearl",
+      "Ghast Tear",
+      "Herb"
+    ],
+    "skill": [],
+    "equipped": {
+      "weapon": null,
+      "armor": null
+    },
+    "cooldowns": {
+      "hunt": 1749490794590
+    }
+  },
+  {
+    "id": "6285706536005@s.whatsapp.net",
+    "name": "時崎|𝙆𝙐𝙍𝙐𝙈𝙄",
+    "level": 1,
+    "exp": 0,
+    "hp": 100,
+    "mp": 50,
+    "atk": 10,
+    "def": 5,
+    "gold": 100,
+    "job": "Novice",
+    "inventory": [],
+    "skill": [],
+    "equipped": {
+      "weapon": null,
+      "armor": null
+    }
+  }
+]
